@@ -6,3 +6,6 @@ Just download the entire repo as a zip and extract it with 7-Zip which should be
 
 # For more skins
 Visit r/rainmeter or deviantart for more
+
+# Note
+For the dock, you must change the applist.inc file in the skins source for it to work. All skins files should go to your documents folder after they are installed.
